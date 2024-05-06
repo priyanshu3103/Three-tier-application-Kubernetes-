@@ -1,7 +1,7 @@
 
 ## Three-tier Application (Kubernetes)
 
-![App Screenshot]("C:\Users\priya\Desktop\Architecture-3-tier.png")
+<img src = "Architecture-3-tier.png">
 
 
 ## About
